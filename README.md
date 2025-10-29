@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💬 Ask me about Cats
+
 
 <!--
 **K-Cader/K-Cader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
